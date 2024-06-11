@@ -50,9 +50,3 @@ KMasooma- massoma495@gmail.com - www.linkedin.com/in/kmasooma
 
 Feel free to reach out for any questions or collaborations!
 
-
-git add README.md
-git commit -m "Add README file"
-git push origin master
-
-
